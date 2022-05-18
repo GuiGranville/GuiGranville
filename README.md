@@ -4,7 +4,7 @@
 
 - 🦉 Atualmente estou a procura de um job como Dev
 
-- 💻 Meu projetos estão no meu portifólio (🚨 Está em construção)
+- 💻 Meus projetos estão no meu portifólio (🚨 Está em construção)
 
 <h1> Experiências </h1>
 
