@@ -11,10 +11,11 @@
 - Estagiário <b>FullStack</b> Angular, NodeJs, Python e PostgreSQL entre Set de 2020 e Dez de 2020
 - Estagiário <b>DBa</b>, executando atividades como, fazer APIs de integração e procedures em Banco de Dados Oracle entre Dez de 2020 e Mar 2021
 -  Analista NOC, executando atividades como, monitorar o ambiente, fazer validações de ofensores, documentar problemas e incidentes e criar automações com Python/Selenium.
+-  Dev Pleno <b>FullStack</b> NodeJS/TS, React, React Native, Oracle DB e PLSQL. Desenvolvo soluções e aplicações para diversos clientes da America do Sul e Central, principalmente para os do ramo da saúde.
 
 <br><br>
 
-## 🛠 &nbsp; Tecnologias que domino (ou quase)
+## 🛠 &nbsp; Tecnologias que desenvolvo e estou estudando
 
 <img align="center" alt="html5"
      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
