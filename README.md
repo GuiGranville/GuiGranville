@@ -2,9 +2,8 @@
 
 - 🔥 Desenvolvedor FullStack Jr (em constante aprendizagem)
 
-- 🦉 Atualmente estou trabalhando como DBA e Dev Python em Dataintegra
+- 🦉 Atualmente estou trabalhando como Dev FullStack Pleno em Dataintegra.
 
-- 💻 Meus projetos estão no meu portifólio (🚨 Está em construção)
 
 <h1> Experiências </h1>
 
