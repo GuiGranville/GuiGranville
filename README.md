@@ -1,6 +1,6 @@
 <h1> Opa Devs ! Eu sou o Guilherme ! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- 🔥 Desenvolvedor FullStack Jr (em constante aprendizagem)
+- 🔥 Desenvolvedor FullStack PL (em constante aprendizagem)
 
 - 🦉 Atualmente estou trabalhando como Dev FullStack Pleno em Dataintegra.
 
