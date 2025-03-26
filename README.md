@@ -7,10 +7,13 @@
 
 <h1> Experiências </h1>
 
-- Estagiário <b>FullStack</b> Angular, NodeJs, Python e PostgreSQL entre Set de 2020 e Dez de 2020
+- Dev Pleno <b>FullStack</b> NodeJS/TS, React, React Native, Oracle DB e PLSQL. Desenvolvo soluções e aplicações para diversos clientes da America do Sul e Central, principalmente para os do ramo da saúde.
+- Analista NOC, executando atividades como, monitorar o ambiente, fazer validações de ofensores, documentar problemas e incidentes e criar automações com Python/Selenium.
 - Estagiário <b>DBa</b>, executando atividades como, fazer APIs de integração e procedures em Banco de Dados Oracle entre Dez de 2020 e Mar 2021
--  Analista NOC, executando atividades como, monitorar o ambiente, fazer validações de ofensores, documentar problemas e incidentes e criar automações com Python/Selenium.
--  Dev Pleno <b>FullStack</b> NodeJS/TS, React, React Native, Oracle DB e PLSQL. Desenvolvo soluções e aplicações para diversos clientes da America do Sul e Central, principalmente para os do ramo da saúde.
+- Estagiário <b>FullStack</b> Angular, NodeJs, Python e PostgreSQL entre Set de 2020 e Dez de 2020
+
+
+
 
 <br><br>
 
