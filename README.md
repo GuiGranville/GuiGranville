@@ -2,7 +2,7 @@
 
 - 🔥 Desenvolvedor FullStack PL (em constante aprendizagem)
 
-- 🦉 Atualmente estou trabalhando como Dev FullStack Pleno em Dataintegra.
+- 🦉 Atualmente estou trabalhando como Dev FullStack Senior e Gerente de Projetos em I98.
 
 
 <h1> Experiências </h1>
