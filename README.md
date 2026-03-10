@@ -2,7 +2,7 @@
 
 - 🔥 Desenvolvedor FullStack PL (em constante aprendizagem)
 
-- 🦉 Atualmente estou trabalhando como Dev FullStack Senior e Gerente de Projetos em I98.
+- 🦉 Atualmente estou trabalhando como Dev FullStack Pleno na Fundação CERTI.
 
 
 <h1> Experiências </h1>
